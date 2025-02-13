@@ -1,0 +1,17 @@
+Pip install -r requirements.txt
+pandas==1.5.3
+openai==0.27.8
+pinecone-client==2.2.2
+numpy==1.23.5
+scikit-learn==1.2.2
+jupyter==1.0.0
+python-dotenv==1.0.0
+
+
+
+
+
+
+
+
+
